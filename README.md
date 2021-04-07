@@ -11,5 +11,6 @@ Colours Do not have Any importance to the lines.
 - [End-to-End-Detection-with-Transformer(DETR)](DETR-EndtoEnd-Detection-with-Transformer.pdf)
 - [Image-worth-16x16-words-Vision-Transformer(VIT)](VIT-Image-worth-16x16.pdf)
 - [AlexNet By Geoff Hinton](ALEXNET-ImageNet_classification_withCNN.pdf)(Traditional Paper)
+- [What is Being Transferred in Transfer Learning.pdf](what-is-being-transferred-in-transfer-learning.pdf")
 
 ### Many more papers to Come.
